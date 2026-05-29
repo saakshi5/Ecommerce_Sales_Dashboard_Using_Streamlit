@@ -22,21 +22,7 @@ The project also includes **customer segmentation using K-Means clustering** to 
 
 ## 📁 Project Structure
 
-ecommerce-sales-analysis/
-│
-├── data/
-│   └── online_retail.xlsx
-│
-├── notebook/
-│   └── eda_analysis.ipynb
-│
-├── app/
-│   ├── app.py          # Main Streamlit dashboard
-│   ├── ml.py           # Machine Learning (K-Means)
-│   └── utils.py        # Data loading & preprocessing
-│
-├── requirements.txt
-└── README.md
+<img width="494" height="402" alt="image" src="https://github.com/user-attachments/assets/cc52f617-5f50-4bec-bc18-70c7e64fa9d5" />
 
 
 ## 📊 Features
@@ -74,6 +60,7 @@ ecommerce-sales-analysis/
   * 🔴 High Value (VIP) Customers
 
 ## 📷 Dashboard Preview
+
 <img width="1906" height="960" alt="Screenshot 2026-05-03 214723 - Copy" src="https://github.com/user-attachments/assets/9bbbd067-981d-45d8-b165-b97409b95706" />
 <img width="1919" height="801" alt="Screenshot 2026-05-03 214754 - Copy" src="https://github.com/user-attachments/assets/45ecd6d2-13cf-4b38-ae84-fd6b0eeda21a" />
 <img width="1882" height="741" alt="Screenshot 2026-05-03 214817 - Copy" src="https://github.com/user-attachments/assets/4148121f-ecda-4fda-8bd5-69694da9547d" />
